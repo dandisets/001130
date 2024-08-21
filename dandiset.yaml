@@ -45,16 +45,10 @@ assetsSummary:
   - OptogeneticSeries
   - Units
   - ElectrodeGroup
-citation: Tauffer, Luiz (2024) Aberrant Striatal Activity in Parkinsonism and Levodopa-Induced
-  Dyskinesia (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001130/draft
+citation: Ryan, Michael B.; Bair-Marshall, Chloe; Nelson, Alexandra B. (2024) Aberrant
+  Striatal Activity in Parkinsonism and Levodopa-Induced Dyskinesia (Version draft)
+  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001130/draft
 contributor:
-- affiliation: []
-  email: luiz_tauffer@hotmail.com
-  includeInCitation: true
-  name: Tauffer, Luiz
-  roleName:
-  - dcite:ContactPerson
-  schemaKey: Person
 - awardNumber: K08 NS081001 and F31 NS106827
   identifier: https://ror.org/01s5ya894
   includeInCitation: false
@@ -69,6 +63,25 @@ contributor:
   roleName:
   - dcite:Funder
   schemaKey: Organization
+- identifier: 0000-0002-2650-0690
+  includeInCitation: true
+  name: Ryan, Michael B.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- identifier: 0000-0001-6458-3266
+  includeInCitation: true
+  name: Bair-Marshall, Chloe
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- email: alexandra.nelson@ucsf.edu
+  includeInCitation: true
+  name: Nelson, Alexandra B.
+  roleName:
+  - dcite:Author
+  - dcite:ContactPerson
+  schemaKey: Person
 dateCreated: '2024-07-31T11:11:45.820851+00:00'
 description: 'Action selection relies on the coordinated activity of striatal direct
   and indirect pathway medium spiny neurons (dMSNs and iMSNs, respectively). Loss
